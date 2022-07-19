@@ -1,1 +1,2 @@
 - 👋 Hi, I’m Ted
+- I am a [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+like+to+design+things,;but+I+can+do+other+things+too.)](https://git.io/typing-svg)
